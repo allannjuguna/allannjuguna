@@ -63,9 +63,9 @@
 
 <h3 align="left">Streaks and Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguns&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=allannguna&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
+  <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=nord&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
   
@@ -74,7 +74,7 @@
 
 
 <p align="left">
-  <img src="https://badges.pufler.dev/years/xubzero?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
+  <img src="https://badges.pufler.dev/years/allannjuguna?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
   <a href="https://twitter.com/xubzer0" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
