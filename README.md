@@ -63,11 +63,11 @@
 
 <h3 align="left">Streaks and Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xubzero&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguns&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=xubzero&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
+  <img src="https://gitcard.vercel.app/api?username=allannguna&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xubzero&show_icons=true&theme=nord&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=nord&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
   
 
 </p>
@@ -78,11 +78,11 @@
   <a href="https://twitter.com/xubzer0" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=xubzero" alt="xubzero" />
+<img src="https://komarev.com/ghpvc/?username=allannjuguna" alt="allannjuguna" />
 
 <br>
 <br>
 <!---
-xubzero/xubzero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
