@@ -17,7 +17,7 @@
 <samp>A student,coder,ctf player and cyber security enthusiast from Kenya</samp>
 <br/>
 <br/>
-<strong><a href="https:allannjuguna.github.io">My Portfolio »</a></strong>
+<strong><a href="https://allannjuguna.github.io/">My Portfolio »</a></strong>
 </p>
 
 
