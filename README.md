@@ -34,7 +34,7 @@
 
 <br/>
 
-<h3 align="left">Techstack and Tools:</h3>
+<h3 align="left">🧑‍💻 Techstack and Tools:</h3>
 <p align="left">
 	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="python" width="40" height="40"/> </a>
 	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -61,7 +61,15 @@
 
 <br/>
 
-<h3 align="left">Streaks and Stats:</h3>
+<h3 align="left">🏆 Github Trophies:</h3>
+	<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+</p>
+
+<br/>
+
+
+<h3 align="left">✨ Streaks and Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&amp;theme=nord" alt="GitHub Streaks" width="49%" />
 
@@ -72,10 +80,7 @@
 
 </p>
 
-<h3 align="left">Github Trophies:</h3>
-	<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
-</p>
+
 
 
 <p align="left">
