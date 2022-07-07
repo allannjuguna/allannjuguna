@@ -72,6 +72,11 @@
 
 </p>
 
+<h3 align="left">Github Trophies:</h3>
+	<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="49%" />
+</p>
+
 
 <p align="left">
   <img src="https://badges.pufler.dev/years/allannjuguna?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
