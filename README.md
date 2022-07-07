@@ -74,12 +74,12 @@
 
 <h3 align="left">Github Trophies:</h3>
 	<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="49%" />
+	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
 
 
 <p align="left">
-  <img src="https://badges.pufler.dev/years/allannjuguna?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
+
   <a href="https://twitter.com/xubzer0" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
@@ -88,6 +88,7 @@
 <br>
 <br>
 <!---
+  <img src="https://badges.pufler.dev/years/allannjuguna?style=for-the-badge&amp;color=0389ff&amp;labelColor=334455&amp;logo=github" alt="Years on GitHub" />
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
