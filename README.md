@@ -34,46 +34,34 @@
 
 <br/>
 
+<h3 align="left">🌐 Socials:</h3>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xubzer0) 
+
+
+<br/>
+
+
 <h3 align="left">🧑‍💻 Techstack and Tools:</h3>
-<p align="left">
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="python" width="40" height="40"/> </a>
-	<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="flask" width="40" height="40"/> </a>
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="flask" width="40" height="40"/> </a>
-	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-	<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
-	<!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="c" width="40" height="40"/> </a> -->
-	<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<!-- 	<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
-	<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-	<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-	<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-	<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-	<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-	<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-	<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-	<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
 
 
 <br/>
 
 <h3 align="left">🏆 Github Trophies:</h3>
 	<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
+	<img src="https://github-profile-trophy.vercel.app/?username=allannjuguna&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="99%" />
 </p>
 
 <br/>
 
 
-<h3 align="left">✨ Streaks and Stats:</h3>
+<h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&amp;theme=tokyonight" alt="GitHub Streaks" width="49%" />
 
-  <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />
+  <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=nord&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
   
@@ -88,7 +76,8 @@
   <a href="https://twitter.com/xubzer0" target="blank"><img src="https://img.shields.io/twitter/follow/xubzer0?logo=twitter&style=for-the-badge" alt="xubzer0" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=allannjuguna" alt="allannjuguna" />
+---
+[![](https://visitcount.itsvg.in/api?id=allannjuguna&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <br>
 <br>
