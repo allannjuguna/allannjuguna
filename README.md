@@ -31,13 +31,6 @@
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me **mailto:allannjugush@gmail.com**
 
-
-<br/>
-
-# 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xubzer0) 
-
-
 <br/>
 
 
@@ -63,7 +56,7 @@
 
   <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=nord&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allannjuguna&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)](https://github.com/xubzero/github-readme-stats)
   
 
 </p>
