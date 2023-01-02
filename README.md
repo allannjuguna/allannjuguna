@@ -52,8 +52,8 @@
 
 <h3 align="left">📊 Streaks and Stats:</h3>
 <p align="center">
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&theme=tokyoneon&hide_border=false)<br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&theme=tokyoneon&hide_border=false" alt="GitHub Streaks" width="49%" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=allannjuguna&theme=tokyonight&hide_border=false" alt="GitHub Streaks" width="49%" />
 
   <img src="https://gitcard.vercel.app/api?username=allannjuguna&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub Stats" width="49%" />
 
@@ -80,4 +80,4 @@
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-t
+
