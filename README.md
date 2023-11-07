@@ -33,7 +33,7 @@
 
 - 🌱 I’m currently learning **C and Assembly**
 - 👯 I’m looking to collaborate on projects
-- 📫 How to reach me **mailto:allannjugush@gmail.com**
+- 📫 How to reach me **mailto:zerofrost254@gmail.com**
 
 <br/>
 
